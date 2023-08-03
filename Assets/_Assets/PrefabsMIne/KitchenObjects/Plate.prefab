@@ -70,6 +70,7 @@ GameObject:
   - component: {fileID: 6274183091499417304}
   - component: {fileID: 1291454634671170627}
   - component: {fileID: 2818336145568271599}
+  - component: {fileID: 7127552207667012246}
   m_Layer: 0
   m_Name: PlateIconsUI
   m_TagString: Untagged
@@ -212,6 +213,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mode: 2
+--- !u!225 &7127552207667012246
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6514365710558564581}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 1
 --- !u!1 &6832286549967999404
 GameObject:
   m_ObjectHideFlags: 0
@@ -572,32 +585,32 @@ PrefabInstance:
     - target: {fileID: 3550707550894988255, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3550707551136013323, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3550707552375629789, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3550707552397226385, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3550707552663613203, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3611271270719445377, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6447796502138502896, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}
